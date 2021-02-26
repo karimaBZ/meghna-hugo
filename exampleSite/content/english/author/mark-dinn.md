@@ -3,6 +3,8 @@ title: Karima Ben zineb
 image: ''
 email: karima.bz@oyez.fr
 social:
+- icon: ''
+  link: https://www.linkedin.com/in/karima-ben-zineb-766845141/
 - icon: ti-github
   link: "#https://github.com/karimaBZ"
 
