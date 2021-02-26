@@ -1,15 +1,12 @@
 ---
-title: "Mark Dinn"
-image: ""
-email: "email2@example.org"
+title: Karima Ben zineb
+image: ''
+email: karima.bz@oyez.fr
 social:
-  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
----
+- icon: ti-github
+  link: "#https://github.com/karimaBZ"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+---
+développeur full stack Js chez oyez Tunis
+
+ingénieur en télécommunication de l'ENET'COM Sfax , Tunisie depuis 2018
